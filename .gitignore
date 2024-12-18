@@ -1,0 +1,6 @@
+/__pycache__/
+/data/
+*.png
+*.log
+*.csv
+*.pkl
